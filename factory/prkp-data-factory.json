@@ -1,0 +1,9 @@
+{
+	"name": "prkp-data-factory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "512ed456-15a6-4cb9-a0fa-9c2dc13d9831",
+		"tenantId": "a868f2a0-c232-4498-8b8a-2f2deb766c1c"
+	}
+}
